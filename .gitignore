@@ -11,6 +11,8 @@
 .sts4-cache
 .mvn
 .apt_generated_tests
+mvnw
+mvnw.*
 	
 ### IntelliJ IDEA ###
 .idea
